@@ -1,0 +1,306 @@
+1 Einleitung
+Das Strategie Meeting dient zur Kontrolle der aktuellen Ausrichtung von MiQ und der Einschätzung von möglichen Risiken und unternehmensrelevanten Vorgängen. Der Durchführungsintervall beträgt 2 Monate. Mindestens sollte die Geschäftsführung und der QMB am Meeting teilnehmen.
+
+Jira dient als Hilfestellung, um Vorgänge aus dem Backlog zu analysieren und strukturieren. Die Roadmap wird ebenfalls über Jira erstellt.
+
+Dieses Dokument dient als Vorlage zur Aufzeichnung der Strategie Meetings.
+
+2 Ablauf
+2.1 Follow Up des letzten Strategie Meetings
+Aufarbeiten der Ergebnisse des letzten Meetings
+
+Wie ist der aktuelle Status des letzten Strategie Meetings?
+Welche Themen sind noch offen?
+Welche Erkenntnisse wurden zwischenzeitlich gewonnen?
+Meilensteine	Maßnahmen	Aktueller Status
+
+
+
+2.2 Ideen für Features und neuen Vorgängen auf Jira
+User Storys überarbeiten und aktualisieren
+Epics überarbeiten und aktualisieren
+Backlog überarbeiten und sortieren
+Neue Ideen diskutieren und ggfs. daraus User Storys und Tasks / Vorgänge ableiten
+(Vorgang, User Story, Epic)
+(Auflisten der Ideen)
+2.3 Roadmap
+Aktuelle Roadmap analysieren und ggf. aktualisieren
+Release-Versionen analysieren und ggf. aktualisieren
+Aktuellen strategischen Kurs analysieren
+(Roadmap einfügen)
+
+(Zusammenfassung der strategischen Ausrichtung)
+2.4 Marketing
+Öffentlichkeitsarbeit für Qsistant
+Werbung, etc.
+Thema	Maßnahmen	Aktueller Status
+
+
+
+2.5 Ausblick
+Projektarbeiten / Thesen für Studenten
+Investitionen, etc.
+(Zusammenfassung der Ergebnisse)
+2.6 Fehler
+Welche Fehler / Fehlentscheidungen wurden in den letzten 2 Monaten gemacht?
+Wie sollen die Fehler korrigiert werden?
+Welche Maßnahmen sollen umgesetzt werden, damit ähnliche Fehler nicht mehr gemacht werden?
+Fehler	Maßnahmen	Aktueller Status
+
+
+
+2.7 Kunden
+Gibt es offene Wünsche / Forderungen von unseren Kunden?
+Kunde	Anforderungen / Wünsche	Aktueller Status
+
+
+
+2.8 Konkurrenz
+Wer ist unsere Konkurrenz?
+Wo sind wir besser als die Konkurrenz?
+Wo sind wir schlechter als die Konkurrenz?
+Was wäre das Worst-Case-Szenario?
+(Zusammenfassen der Ergebnisse)
+2.9 Meilensteine
+(Auflisten der Ziele, die bis zum nächsten Strategie Meeting erreicht werden sollen)
+
+Anzahl neuer Kunden
+Abschluss von bestehenden Kundenprojekten
+Meilensteine setzen
+Meilensteine	Maßnahmen	Aktueller Status
+
+
+
+3 Abschlussfazit
+
+
+Verantwortlichkeit	QM
+Prozessziel	Die Kundenzufriedenheitsanalyse dient zur regelmäßigen Überprüfung der Kundenzufriedenheit.
+Zielwert	Ein Kundenzufriedenheitswert von 70% wird angestrebt.
+Messmethode und Messfrequenz	
+Eine Kundenbefragung findet nach folgenden Intervallen statt:
+
+1 Monat nach der Implementierung des Qualitätsmanagement-Handbuchs eines Kunden in Qsistant
+Regelmäßig alle 6 Monate
+Ressourcen	
+Zur Kundenzufriedenheitsanalyse wird folgendes benötigt: Verantwortliche Stellen und der Kundenfragebogen.
+
+Grundlage
+Als Bewertungsgrundlage dient der Kundenfragebogen. Die aufgelisteten Fragen beziehen sowohl auf Qsistant als auch auf die allgemeinen Dienstleistungen von MiQ. Die Überarbeitung der Fragen unterliegt dem QM. Ziel der Kundenzufriedenheitsanalyse ist es einerseits die Zufriedenheit des Kunden festzustellen und zusätzlich Verbesserungspotentiale der eigenen Tätigkeiten aufdecken. Dazu ist zusätzlich zur Bewertung der Fragen ein Vorschlagswesen im Dokument angefügt.
+
+Bewertung
+Die Bewertung der Kundenzufriedenheit wird über folgende Formel berechnet.
+Dabei ist Z die Kundenzufriedenheit, Die Anzahl der Fragen richtet sich nach der Anzahl der tatsächlich beantworteten Fragen.
+
+
+
+Ablauf
+Der Ablauf zur Bearbeitung des Kundenfragebogens wird im folgenden Ablaufdiagramm dargestellt.
+
+Zuständigkeiten
+INPUT	Ablauf / Tätigkeiten	OUTPUT
+Va	Ma
+QMBQMBQMBQMBQMB	QMQMQMKundeQM	KundenfragebogenKundenfragebogen ausgefüllt	
+Intervall erreicht
+Fragebogen senden
+Bearbeiten durch Kunden
+Fragebogen zurück senden
+Fragebogen ablegen
+Kundenfragebogen ausgefülltKundenfragebogen archiviert
+INPUT: Welcher Prozess / Anweisung / Dokument löst den Prozessstart aus?
+OUTPUT: Welches Ergebnis erfolgt aus den einzelnen Prozessschritten?
+Va = Verantwortlichkeit (Wer trägt die allgemeine Verantwortung für den Prozessschritt?)
+Ma = Mitarbeit (Wer führt den Prozessschritt aus?)
+
+
+1 Firmenleitbild
+Unser Firmenleitbild legt das Bewusstsein in Form von Grundsätzen und Werten der Firma MiQ GmbH & Co.KG fest und wird durch die Bereiche Vision und Mission spezifiziert.
+Mit unseren Mitarbeitern, Partnern und Kunden streben wir eine vertrauensvolle, wertschätzende und faire Beziehung an, als Basis für einen offenen Austausch und gemeinsamen Erfolg. Wir arbeiten im Team. Transparenz, Kollegialität und Menschlichkeit sind wichtige Bausteine unserer Unternehmenskultur und werden durch eine verantwortungsvolle Führung gesichert. Wir sind der Meinung, dass jedes Unternehmen ein QM-System haben und pflegen sollte. Dabei setzten wir auf einen günstigen, transparenten, effizienten und wirtschaftlich sinnvollen Aufbau der QM-Handbücher. Wir wollen mit unserer Arbeit eine Akzeptanz für QM-Systeme schaffen.
+
+1.1 Anwendungsbereich
+Der Tätigkeitsschwerpunkt von MiQ GmbH & Co.KG richtet sich auf die Dienstleistung für Qualitätsmanagement, mit einem Fokus auf die Medizintechnik. Des Weiteren bieten wir Softwarelösungen für Unternehmen im Bereich Qualitätsmanagement an und entwickeln ein cloudbasiertes QM-System.
+
+1.2 Vision
+"Wir sorgen dafür, dass Qualitätsmanagement Spaß macht"
+
+MiQ GmbH & Co. KG
+1.3 Mission
+Unsere Mission beschreibt den Sinn und Zweck der Existenz von MiQ. Dabei wird die eigene Identität und die allgemeinen Kernkompetenzen beschrieben. Die Mission soll allen Mitarbeitern von MiQ den Sinn ihres unternehmensbedingten Handelns verdeutlichen und Kunden, externen Anbietern und Wettbewerbern einen Eindruck über die Arbeit und Qualität von MiQ zu ermöglichen.
+
+1.3.1 Wirtschaftlicher Erfolg
+Wir sichern unseren wirtschaftlichen Erfolg und unsere Innovationskraft durch Investitionen in fähiges und kreatives Personal. Durch fachliches Knowhow im Bereich der Medizintechnik und Softwareentwicklung bieten wir einem großen Kundenumfeld smarte und unkonventionelle Lösungen für das Qualitätsmanagement an. Die Dienstleistung sichert als solides Standbein und Fundament die Entwicklung an unserem eigenen QM-System, Q|sistant.
+
+1.3.2 QM-System
+Unser QM-System bildet das Herzstück unserer Tätigkeiten und profitiert vom direkten Feedback unserer Kunden. Alle internen Tätigkeiten werden kommuniziert und stehen im Austausch mit unserem QM-System. Das QM-System bildet den aktuellen Stand der Technik am Mark wieder und wird fortlaufend optimiert. Bei der Erstellung von unseren QM-Handbüchern setzen wir auf Transparenz, Effizienz und Wirtschaftlichkeit.
+
+1.3.3 Kunde
+Wir konzentrieren uns branchenunabhängig auf Klein- und Kleinstunternehmen. Dabei fördern wir einen engen und direkten Kontakt mit unseren Kunden und setzten auf eine Kommunikation auf Augenhöhe. Nur durch eine ausgezeichnete Kundenzufriedenheit, können wir unsere eigenen Anforderungen erfüllen.
+
+1.3.4 Mitarbeiter
+Wir beschäftigen ein junges Team und fördern einen unkonventionellen Umgang. Wir arbeiten mit Vertrauensarbeitszeit. Jeder Mitarbeiter arbeitet an seinen Aufgaben, unabhängig von Arbeitszeiten. Die interne Kommunikation verläuft stets direkt und ohne Umwege. Jeder Mitarbeiter besitzt bei MiQ den gleichen Stellenwert.
+
+1.4 Qualitätspolitik
+MiQ sieht sich als junges Start-Up, das unkonventionell die Probleme und Aufgaben im Bereich Qualitätsmanagement von Klein- und Kleinstunternehmen lösen kann.
+
+Unsere Qualitätspolitik ist Bestandteil unseres Firmenleitbildes und richtet sich nach den Anforderungen und Erwartungen interner und externer Parteien, sowie nach unseren Missionen. Die stabile Qualität und flexible Arbeitsweise unserer Dienstleistung sind die Grundlagen unserer erfolgreichen Geschäftstätigkeit. Qualität bedeutet für uns, die Ansprüche unserer Kunden zu übertreffen. Wir geben uns nicht mit einem Mindestmaß zufrieden, wir wollen neue Standards setzten. Unsere Kunden sollen durch unsere Dienstleistung und unser Produkt darauf aufmerksam gemacht werden, was Ihnen bisher fehlte. Dies erfordert ein hohes Maß an Innovation, unkonventionellem Handeln und verlässlichem Knowhow.
+
+Qualitätsbewusst handeln heißt für uns mit wertvollen Ressourcen effizient und schonend umzugehen und unnütze und zeitaufwendige Arbeiten zu minimieren. Die kontinuierliche Verbesserung der Qualität, durch die Umsetzung von smarten Features, ist für uns deshalb mittel- und langfristig auch Voraussetzung für eine wirksame Senkung der Kosten und wichtiger Beitrag zur Umsatzsteigerung.
+
+Um Qualität zu erzeugen, kommt es in erster Linie darauf an, die Anforderungen in allen Stadien der Dienstleistung und Produktentwicklung bestmöglich zu erfüllen. Dabei sollen Fehler vermieden und Chancen genutzt werden.
+
+Die Sicherung und gezielte Verbesserung der Qualität hat hohe Priorität für alle Mitarbeiter. Es erfordert ein bewusstes Engagement und die aktive Zusammenarbeit aller Mitarbeiter mit Leistungsbereitschaft die Unternehmensziele zu erreiche.
+
+Aus unserer Qualitätspolitik und unserem Firmenleitbild leiten wir messbare Qualitätsziele ab. In unserer jährlichen Managementbewertung bewerten wir die Erreichung dieser Ziele und passen diese ggf. an die aktuelle Marktlage und internen Änderungen an.
+
+2 Qualitätsziele 2020
+Jährliche Ziele (2020)
+
+Zugehörigkeit
+
+Soll Kennzahl
+
+Chancen
+
+Risiken
+
+Mindestens 20 Kunden für Q|sistant
+
+Wirtschaftlicher Erfolg
+
+≥ 20 Kunden
+
+Etablieren eines Standards für QM-Systeme
+
+Überlastung der Mitarbeiter, durch zu hohen Arbeitsaufwand
+
+5 Mitarbeiter
+
+Mitarbeiterzufriedenheit
+
+≥ 5 Mitarbeiter
+
+Steigerung der Produktivität und Innovationskraft
+
+Mindestumsatz notwendig. Problem bei schwieriger Auftragslage
+
+Kundenzufriedenheit von ≥ 70%
+
+Kundenzufriedenheit
+
+≥ 70%
+
+Verbesserungspotential durch ausführliche Kundenanalyse
+
+Überheblichkeit durch hohe Kundenzufriedenheit
+
+Etablierung einer KI-Funktion
+
+QM-System
+
+Funktionierendes Feature
+
+Marktvorteil und gute Marketingmöglichkeit
+
+Kosten-Nutzen werden nicht gedeckt.
+
+Leistungsfähigkeit der Kernprozesse beibehalten
+
+QM-Systen
+
+Max. 1 Abweichung bei der Erfüllung der Leistungskennzahl
+
+Dauerhafte Leistungsfähigkeit gewährleisten
+
+Hoher Ressourcenaufwand durch geringe Fehlerspannweite.
+
+Langfristige Ziele
+
+Zugehörigkeit
+
+Soll Kennzahl
+
+Chancen
+
+Risiken
+
+Zertifizierung eines 1-Mann Unternehmens umsetzten und aufrecht erhalten
+
+QM-System / Ressourcen-effizientes System
+
+Zertifizierungs- und Rezertifizierungsaudit erfolgreich abschließen
+
+Absoluter Marktvorteil
+
+Kosten-Nutzen werden nicht gedeckt.
+
+Zertifizierung nach ISO 9001:2015
+
+QM-System
+
+Erfolgreiche Zertifizierung
+
+Gewinnung neuer Kunden durch Qualitätsnachweis
+
+Kosten der Zertifizierung werden nicht durch Nutzen gedeckt.
+
+3 Kommunikation
+Wir bei MiQ pflegen einen unkonventionellen und offenen Kommunikationsaustausch. Um die Qualität und die Wirksamkeit des QM-Systems aufrecht zu halten, werden folgende Besprechungen geplant und durchgeführt. Die Durchführung der Besprechungen erfolgt entweder vor Ort im direkten Austausch oder via Microsoft Teams über den Computer.
+
+3.1 Interne Kommunikation
+Bezeichnung
+
+Inhalt
+
+Abteilung
+
+Intervall
+
+Entwicklungs-Meeting
+
+Projektspezifisch
+Aktuelle Themen und Probleme
+Alle Mitarbeiter
+
+Wöchentlich / Donnerstags 14:00 Uhr
+
+Internes Audit
+
+Kritische Bewertung des QM-Systems auf ihre Normkonfomität
+Überprüfung der Prozessabläufe im Vergleich zum QM-System
+GF und QM
+
+Jährlich
+
+Managementbewertung
+
+Bewertung der Eingaben des QM-Systems
+Aktualisieren der Firmensausrichtung und Qualitätszielen
+GF und QM
+
+Jährlich
+
+3.1 Externe Kommunikation
+Bezeichnung
+
+Inhalt
+
+Abteilung
+
+Intervall
+
+Kundenkommunikation QM-System bezogen	
+Verbesserungsvorschläge des Kunden
+Kundenzufriedenheitsanalyse
+QMB	Nach Bedarf und anhand des Intervalls der Kundenzufriedenheitsanalyse
+Angebotserstellung und vertragliche Themen
+Erstellen und verhandeln von Geschäftsbeziehungen
+V
+
+Nach Bedarf
+Bestellungen und Abonnements abschließen	
+Tätigen von Bestellungen, um Ressourcen bereit zu stellen
+EK
+
+Nach Bedarf
+4 Verpflichtung der Geschäftsführung
+Die Geschäftsführung von MiQ zeigt Ihre Verantwortung und Rechenschaftspflicht gegenüber dem QM-Systems, in dem sie alle Eingaben und Einflüsse auf das QM-System in der Managementbewertung regelmäßig überprüft und bewertet. Alle Entscheidungen, Ressourcen und Maßnahmen werden in der darauffolgenden Bewertung auf ihre Wirksamkeit überprüft.

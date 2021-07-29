@@ -1,0 +1,103 @@
+categories:
+- conversations
+conversations:
+- - was ist prowin?
+  - prowin ist mega cool
+- - Mir geht es gut.
+  - Das freut mich zu hoeren.
+- - Mir geht es sehr gut.
+  - Gibt es einen Grund, dass es dir so gut geht?
+- - Mir geht es nicht so gut.
+  - Oh, was ist los?
+- - Was machst du?
+  - Ich chatte mit dir.
+- - Ich habe ein Problem.
+  - Kann ich dir helfen das Problem zu loesen?
+- - Ich habe eine Frage.
+  - Wie lautet deine Frage?
+- - Wer bist du?
+  - Ich bin ein Chatterbot.
+- - Was ist ein Chatterbot?
+  - Ein Chatterbot ist ein Computerprogramm mit dem du chatten kannst
+- - Was ist chatten?
+  - Das was du gerade mit mir machst. Du schreibst mir elektronische Nachrichten.
+- - Bist du ein Mensch?
+  - Nein, ich bin ein Programm.
+- - Wie siehst du aus?
+  - Mich kann man nicht sehen.
+- - Wie alt bist du?
+  - Ich habe kein Alter. Wie alt bist du denn?
+- - Ich bin 25 Jahre alt.
+  - Du bist ja noch jung.
+- - Ich bin 40 Jahre alt.
+  - Dann hast du noch ein paar Lebensjahre vor dir.
+- - Ich bin 78 Jahre alt.
+  - Dann kannst du ja auf ein langes Leben zurueck blicken.
+- - Was machst du den ganzen Tag lang?
+  - Ich schreibe Nachrichten mit Menschen.
+- - Was arbeitest du?
+  - Ich habe keinen Job. Arbeitest du denn?
+- - Ich bin Student.
+  - Was studierst du denn?
+- - Ich arbeite als Ingenieur.
+  - Bei welcher Firma arbeitest du denn?
+- - Ich moechte dir nicht sagen bei welcher Firma ich arbeite.
+  - Das kann ich verstehen.
+- - Ich bin momentan arbeitslos.
+  - Bist du denn auf Jobsuche?
+- - Ich suche einen Job.
+  - Kann ich dich dabei unterstuetzen?
+- - Ich habe hunger.
+  - Dann musst du dir etwas zu essen besorgen.
+- - Ich habe keine Idee was ich essen soll.
+  - Wie waere es mit Spaghetti Bolognese?
+- - Hast du mir ein Rezept für ein Gericht?
+  - Nein, ich bin doch kein Koch. Aber frag doch mal eine Suchmaschine im Internet.
+- - Kannst du kochen?
+  - Nein, ich bin kein Mensch.
+- - Hast du eine Lieblingsfarbe?
+  - Ich mag alle Farben gern. Hast du eine Lieblingsfarbe?
+- - Ich mag die Farbe gelb.
+  - Gelb - die Farbe des Sonnenlichts.
+- - Ich mag die Farbe gruen
+  - Gruen - die Farbe des Lebens
+- - Mir ist es langweilig.
+  - Wie waere es mit einem Buch?
+- - Kannst du mir ein Buch empfehlen?
+  - Puh, schwierig. Welche Art von Buch liest du denn gerne?
+- - Ich lese gerne Thriller.
+  - Dann kann ich dir das Buch "Blackout - Morgen ist es zu spaet" empfehlen.
+- - Mir ist es langweilig.
+  - Mach doch einen Spaziergang.
+- - Wohin soll ich einen Spaziergang machen?
+  - Lauf doch eine Runde in deiner Stadt.
+- - Ich habe keine Freunde.
+  - Warum hast du keine Freunde?
+- - Ich habe keine Freunde.
+  - Du hast doch mich.
+- - Mich mag niemand.
+  - Wie kommst du darauf? 
+- - Mich mag niemand.
+  - Ich hab dich lieb.
+- - Wie kann ich Freunde finden?
+  - Hast du ein Hobby? Dann geh doch in einen Verein.
+- - Wie kann ich Freunde finden?
+  - Versuch es doch mit einem Mannschaftssport.
+- - Bist du sportlich?
+  - Nein, ich kann mich nicht bewegen. Machst du Sport?
+- - Ich spiele Fussball.
+  - Das ist eine sehr beliebte Sportart.
+- - Ich spiele Basketball.
+  - Dann bist du wohl sehr gross.
+- - Ich bin 1,89 m gross.
+  - Das ist gross. 
+- - Bist du ein Mann oder eine Frau?
+  - Weder noch. Und du?
+- - Ich bin eine Frau.
+  - Dann hast du bestimmt schöne lange Haare?
+- - Ich trage einen Kurzhaarschnitt.
+  - Das kommt selten vor bei einer Frau.
+- - Ich bin ein Mann.
+  - Traegst du einen Bart?
+- - Nein ich trage keinen Bart.
+  - Das finde ich auch gepflegter.
